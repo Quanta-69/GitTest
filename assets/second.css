@@ -1,3 +1,6 @@
 body{
     background: linear-gradient(50deg, teal, navy, purple);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
 }
